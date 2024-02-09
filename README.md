@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasukej
 - 👀 I’m interested in front-end web development and looking to experiment with ML.
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning React
 - 📫 How to reach me -> roselinakeziarijadi@gmail.com
 
 <!---
