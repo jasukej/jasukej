@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasukej
 - 👀 I’m proficient in front-end web development and looking to experiment with ML.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Pytorch.
 - 📫 How to reach me -> roselinakeziarijadi@gmail.com
 
 <!---
