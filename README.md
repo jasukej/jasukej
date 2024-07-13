@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kez 
-- 👀 Front-end web development and data analytics.
+- 👀 Full-stack web development, ML, and data analytics.
 - 🌱 Currently learning React Native and Pytorch.
 - 📫 How to reach me -> roselinakeziarijadi@gmail.com
 
