@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kez 
 - 👀 Full-stack web development, ML, and data analytics.
-- 🌱 Currently learning React Native and Pytorch.
+- 🌱 Currently reading [Crafting Interpreters](https://timothya.com/pdfs/crafting-interpreters.pdf) 
 - 📫 How to reach me -> roselinakeziarijadi@gmail.com
 
 <!---
